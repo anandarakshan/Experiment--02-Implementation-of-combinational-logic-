@@ -94,13 +94,13 @@ assign F1=x1|x2|x3|x4|x5;
 
 endmodule
 
-## RTL realization:
-![RTL-exp2](https://github.com/anandarakshan/Experiment--02-Implementation-of-combinational-logic-/assets/139217934/a760755e-7a19-4daa-81ae-b6b56a74bb5a)
-
-
 ## Truth Table:
 
 ![Truth Table-exp2](https://github.com/anandarakshan/Experiment--02-Implementation-of-combinational-logic-/assets/139217934/01f54815-c131-4e30-b32b-d08e28ebc0b3)
+
+## RTL realization:
+![RTL-exp2](https://github.com/anandarakshan/Experiment--02-Implementation-of-combinational-logic-/assets/139217934/a760755e-7a19-4daa-81ae-b6b56a74bb5a)
+
 
 ## Timing Diagram:
 
